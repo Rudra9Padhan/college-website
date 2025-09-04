@@ -1,3 +1,4 @@
 This is the first college website project.
- Author by Rudra Padhan
+Panchayat College Bargarh 
+ Author:-by Rudra Padhan
  
